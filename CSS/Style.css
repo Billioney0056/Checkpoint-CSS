@@ -1,0 +1,175 @@
+/* header */
+html {
+    background-color: #6fcd72;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+.B {
+    display: block;
+    font-family: roboto;
+    color: white;
+    text-align: center;
+    padding: 14px 14px;
+    text-decoration: none;
+    float: left;
+    font-size: 18px;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    font-size: 18px;
+    font-family: roboto;
+    color: white;
+    text-align: center;
+    padding: 14px 14px;
+    text-decoration: none;
+    
+}
+
+li a:hover {
+ background-color: aqua;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+#searchbar {
+    margin-left: 15%;
+     padding:15px;
+     border-radius: 20px;
+
+}
+
+/* main */
+
+main {
+    margin-top: 10px;
+    background-color: #4CAF50;
+    border-radius: 15px;
+}
+
+
+.Go {
+    margin-top: 30px;
+    float: left;
+    font-family: roboto;
+    color: white;
+    font-size: 50px;
+    padding-left: 40px;
+    
+}
+
+.ins {
+    text-align: center;
+    margin-top: 100px;
+    font-family: roboto;
+    font-size: 20px;
+    color: white;
+    margin-left: 800px ;
+    margin-right: 800px ;
+
+}
+
+.in {
+    text-align: center;
+    font-family: roboto;
+    font-size: 15px;
+    color: white;
+    margin-left: 800px ;
+    margin-right: 800px ;
+    margin-bottom: 100px;
+
+}
+
+.uu {
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    margin-left: 950px ;
+    margin-right: 950px ;
+    border-radius: 10px;
+    
+}
+
+.kk {
+    background-color: black;
+    text-align: center;
+    margin-left: 800px ;
+    margin-right: 800px ;
+    border-radius: 20px;
+}
+
+
+#lo {
+    text-align: center;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-top: 0px;
+}
+#la {
+    color: white;
+    font-family: roboto;
+    font-size: 25px;
+}
+
+input {
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+
+/* footer */
+
+
+footer {
+    background-color: black;
+    border-radius: 15px;
+}
+
+.oo {
+    color: white;
+    font-size: 20px;
+    font-family: roboto;
+    padding-left: 8px;
+}
+
+.fa-solid {
+    font-size: 25px;
+}
+
+.jj {
+    color: white;
+    font-size: 15px;
+    font-family: roboto;
+    padding-left: 8px;
+}
+
+.aa {
+    color: white;
+    font-family: roboto;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 8px;
+    
+}
+
+.nn {
+    color: white;
+    font-family: roboto;
+    font-size: 15px;
+    text-align: center;
+    padding-left: 8px;
+}
+}
